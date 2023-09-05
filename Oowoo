@@ -1,0 +1,22 @@
+Can you give me a code in java that can do this
+
+Expected Output:
+
+Enter Number:
+1
+2
+3
+4
+5
+-1
+-2
+-3
+-4
+-5
+
+Positive Number						Negative Number
+1																-1
+2																-2
+3																-3
+4																-4
+5																-5
